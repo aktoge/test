@@ -1,2 +1,6 @@
 test line
+<<<<<<< HEAD
 test add
+=======
+add line
+>>>>>>> 963e6a29e6089a57c96398bf32555870d97c1cae
